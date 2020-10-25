@@ -13,7 +13,7 @@ const port = 3000//process.env.PORT
 // Initialize Africa's Talking
 
 const credentials = {
-    apiKey: '5f8c507f463d58e87b5f55d8758766cce2d1382bd7716b3b261bc6009ce96c06',
+    apiKey: '',
     username: 'sandbox'
 }
 
