@@ -62,16 +62,6 @@ app.post('/', (req, res) => {
     }
 })
 
-// Success and Error page rendering
-
-// app.get('/success', (req, res) => {
-//     res.render('success')
-// })
-
-// app.get('/error', (res, req) => {
-//     res.render('error')
-// })
-
 // Notification routes
 
 app.post('/validation', (req, res) => {
